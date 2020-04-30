@@ -12,3 +12,5 @@ JS
 For any questions, corrections, comments or issue kindly contact me at ninahb746@gmail.com
 ### License
 Under the MIT License.
+
+ link to live site https://github.com/NinahMo/calculator-project.git
